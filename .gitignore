@@ -1,0 +1,6 @@
+/kpo1
+*.exe
+*.test
+coverage.out
+coverage.html
+*.zip
